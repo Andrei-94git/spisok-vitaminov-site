@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ru.vitamap.app",
+      "sha256_cert_fingerprints": [
+        "C1:62:9F:AE:EE:E5:C6:B9:AC:44:46:8F:54:25:C7:E2:68:ED:07:2F:90:05:0B:AF:EF:E2:07:66:44:F1:BA:0B"
+      ]
+    }
+  }
+]
